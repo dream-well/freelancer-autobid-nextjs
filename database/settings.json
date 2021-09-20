@@ -1,0 +1,10 @@
+{
+  "fixed": "1234",
+  "hourly": "22",
+  "payment": true,
+  "countries": [],
+  "countriesX": [
+    "India",
+    "Pakistan"
+  ]
+}

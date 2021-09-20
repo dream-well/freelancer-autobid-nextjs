@@ -1,0 +1,14 @@
+:root {
+  --color-primary: linear-gradient(180deg, #4E31FF 0%, #3F2FED 100%);
+  --color-secondary: linear-gradient(180deg, #FF9364 0%, #F25F33 100%);
+  --color-background: #161619;
+  --color-category: linear-gradient(92.35deg, rgba(61, 90, 245, 0.3) 0.89%, rgba(50, 104, 244, 0) 97.92%);
+  --color-border: #0B0B0D;
+  /* ... */
+}
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;

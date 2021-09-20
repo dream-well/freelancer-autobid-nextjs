@@ -6,9 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.4",
+    "fs-extra": "^10.0.0",
+    "jsdom": "^17.0.0",
     "next": "latest",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.10",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "sqlite3": "^5.0.2",
+    "tough-cookie": "^4.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
